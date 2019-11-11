@@ -1,3 +1,3 @@
 # padroes
 
-Projeto para criar um editor baseado em padrões de projeto
+Projeto para criar um editor de figuras baseado em padrões de projeto
